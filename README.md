@@ -18,6 +18,6 @@
 <div> 
   <a href="https://www.linkedin.com/in/bruno-nascimento-355452176/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  [plante.github.io/snk](https://plante.github.io/snk)
+  [https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.gif)
  
 </div>
